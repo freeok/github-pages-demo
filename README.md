@@ -1,1 +1,1 @@
-GitHub Pages: https://pcdd-group.github.io/github-pages-demo/
+[GitHub Pages](https://freeok.github.io/github-pages-demo/)
